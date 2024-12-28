@@ -1,0 +1,1 @@
+To fix this, replace the unsupported function or operator with an equivalent function that is supported by all the database systems you might use.  Alternatively, consider using parameterized queries or stored procedures to abstract away database-specific functionality.
