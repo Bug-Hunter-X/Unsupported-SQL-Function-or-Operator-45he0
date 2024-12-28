@@ -1,0 +1,1 @@
+The SQL query uses a function or operator that is not supported by the database system being used. This can happen if you use a function that is specific to one database system (such as MySQL's `GET_LOCK` function) in a query that is executed against a different database system (such as PostgreSQL).
